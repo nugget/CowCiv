@@ -3,7 +3,7 @@
 <!-- Copyright Firaxis Games 2005 -->
 <!-- -->
 <!-- Diplomacy Infos -->
-<Civ4DiplomacyInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
+<Civ4DiplomacyInfos xml7ns="x-schema:CIV4GameInfoSchema.xml">
 	<DiplomacyInfos>
 		<DiplomacyInfo>
 			<Type>AI_DIPLOCOMMENT_DECLARE_WAR</Type>
@@ -894,7 +894,6 @@
 						<Text>AI_DIPLO_NO_PEACE_LEADER_MCNETT_1</Text>
 					</DiplomacyText>
 				</Response>
-			<Responses>
 				<Response>
 					<Civilizations/>
 					<Leaders>
