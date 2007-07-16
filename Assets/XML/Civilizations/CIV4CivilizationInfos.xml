@@ -65,7 +65,11 @@
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<iFreeUnits>2</iFreeUnits>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_WORKER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
 				</FreeUnitClass>
 			</FreeUnitClasses>
 			<FreeBuildingClasses>
