@@ -54,7 +54,12 @@
 				<City>TXT_KEY_CITY_NAME_DBAKERTON</City>
 				<City>TXT_KEY_CITY_NAME_CONEVILLE</City>
 			</Cities>
-			<Buildings/>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
+					<BuildingType>BUILDING_CHINESE_PAVILLION</BuildingType>
+				</Building>
+			</Buildings>
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_MACEMAN</UnitClassType>
@@ -146,7 +151,12 @@
 				<City>TXT_KEY_CITY_NAME_HUMBLE</City>
 				<City>TXT_KEY_CITY_NAME_NEWBRAUNFELS</City>
 			</Cities>
-			<Buildings/>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
+					<BuildingType>BUILDING_GREEK_ODEON</BuildingType>
+				</Building>
+			</Buildings>
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_SCOUT</UnitClassType>
