@@ -259,10 +259,10 @@
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
-			<iCost>15</iCost>
+			<iCost>20</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iMinAreaSize>-1</iMinAreaSize>
-			<iMoves>2</iMoves>
+			<iMoves>3</iMoves>
 			<iAirRange>0</iAirRange>
 			<iNukeRange>-1</iNukeRange>
 			<iWorkRate>0</iWorkRate>
