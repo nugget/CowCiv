@@ -14,18 +14,18 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SLACKER_SHORT_DESC</Tag>
 		<English>Slackers</English>
-		<French>in French</French>
-		<German>in German</German>
-		<Italian>in Italian</Italian>
-		<Spanish>in Spanish</Spanish>
+		<French>Slackers</French>
+		<German>Slackers</German>
+		<Italian>Slackers</Italian>
+		<Spanish>Slackers</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SLACKER_ADJECTIVE</Tag>
 		<English>Slacker</English>
-		<French>in French</French>
-		<German>in German</German>
-		<Italian>in Italian</Italian>
-		<Spanish>in Spanish</Spanish>
+		<French>Slacker</French>
+		<German>Slacker</German>
+		<Italian>Slacker</Italian>
+		<Spanish>Slacker</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_MCNETT</Tag>
@@ -154,6 +154,22 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_MCNETT_PEDIA</Tag>
 		<English>[H1]David McNett[\H1][NEWLINE][BOLD]Ruler of the Slackers[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1970 to Present[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Cows are cool.</English>
+		<French>in French</French>
+		<German>in German</German>
+		<Italian>in Italian</Italian>
+		<Spanish>in Spanish</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLACKER_SAMURAI</Tag>
+		<English>Lazy Samurai</English>
+		<French>in French</French>
+		<German>in German</German>
+		<Italian>in Italian</Italian>
+		<Spanish>in Spanish</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLACKER_SAMURAI_PEDIA</Tag>
+		<English>[H1]Lazy Samurai[\H1][NEWLINE]Great combat units if you can convince them to fight.</English>
 		<French>in French</French>
 		<German>in German</German>
 		<Italian>in Italian</Italian>
