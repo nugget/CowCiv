@@ -39,6 +39,30 @@
 			<BackgroundKFM/>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_GATES</Type>
+			<Button>,Art/interface/Buttons/Civilizations/CIV4GatesButton.dds</Button>
+			<NIF>Art/Interface/Leaderheads/CIV4GatesLeaderhead.dds</NIF>
+			<KFM/>
+			<NoShaderNIF/>
+			<BackgroundKFM/>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_STALLMAN</Type>
+			<Button>,Art/interface/Buttons/Civilizations/CIV4RMSButton.dds</Button>
+			<NIF>Art/Interface/Leaderheads/CIV4RMSLeaderhead.dds</NIF>
+			<KFM/>
+			<NoShaderNIF/>
+			<BackgroundKFM/>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_OREILLY</Type>
+			<Button>,Art/interface/Buttons/Civilizations/CIV4OReillyButton.dds</Button>
+			<NIF>Art/Interface/Leaderheads/CIV4OReillyLeaderhead.dds</NIF>
+			<KFM/>
+			<NoShaderNIF/>
+			<BackgroundKFM/>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_BARBARIAN</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_Mongol_Genghis.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,6,12</Button>
 			<NIF>art/LeaderHeads/Sid/sid.nif</NIF>

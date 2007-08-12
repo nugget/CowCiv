@@ -31,6 +31,24 @@
 			<bWhiteFlag>1</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MICROSOFT</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/CIV4MicrosoftButton.dds</Button>
+			<Path>Art/Interface/TeamColor/CIV4MicrosoftFlag.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_FSF</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/CIV4FSFButton.dds</Button>
+			<Path>Art/Interface/TeamColor/CIV4FSFFlag.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_FNC</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/CIV4FNCButton.dds</Button>
+			<Path>Art/Interface/TeamColor/CIV4FNCFlag.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_AMERICA</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/America.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,1,5</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Star.dds</Path>
