@@ -168,7 +168,7 @@
 				<iMeleeWaveSize>3</iMeleeWaveSize>
 				<iRangedWaveSize>3</iRangedWaveSize>
 				<UnitMeshGroup>
-					<iRequiredred>3</iRequired>
+					<iRequired>3</iRequired>
 					<EarlyArtDefineTag>ART_DEF_UNIT_JAPAN_SAMURAI</EarlyArtDefineTag>
 				</UnitMeshGroup>
 			</UnitMeshGroups>
