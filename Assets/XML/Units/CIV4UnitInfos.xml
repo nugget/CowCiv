@@ -28,7 +28,7 @@
 			<bNoCapture>0</bNoCapture>
 			<bRivalTerritory>0</bRivalTerritory>
 			<bMilitaryHappiness>1</bMilitaryHappiness>
-			<bMilitarySupport>1</bMilitarySupport>
+			<bMilitarySupport>0</bMilitarySupport>
 			<bMilitaryProduction>1</bMilitaryProduction>
 			<bPillage>1</bPillage>
 			<bSabotage>0</bSabotage>
@@ -119,7 +119,7 @@
 			<iGreatWorkCulture>0</iGreatWorkCulture>
 			<TerrainImpassables/>
 			<FeatureImpassables/>
-			<iCombat>8</iCombat>
+			<iCombat>10</iCombat>
 			<iAirCombat>0</iAirCombat>
 			<iAirCombatLimit>0</iAirCombatLimit>
 			<iXPValueAttack>4</iXPValueAttack>
@@ -128,7 +128,7 @@
 			<iChanceFirstStrikes>0</iChanceFirstStrikes>
 			<iInterceptionProbability>0</iInterceptionProbability>
 			<iEvasionProbability>0</iEvasionProbability>
-			<iWithdrawalProb>0</iWithdrawalProb>
+			<iWithdrawalProb>10</iWithdrawalProb>
 			<iCollateralDamage>0</iCollateralDamage>
 			<iCollateralDamageLimit>0</iCollateralDamageLimit>
 			<iCollateralDamageMaxUnits>0</iCollateralDamageMaxUnits>
@@ -168,7 +168,7 @@
 				<iMeleeWaveSize>3</iMeleeWaveSize>
 				<iRangedWaveSize>3</iRangedWaveSize>
 				<UnitMeshGroup>
-					<iRequired>3</iRequired>
+					<iRequiredred>3</iRequired>
 					<EarlyArtDefineTag>ART_DEF_UNIT_JAPAN_SAMURAI</EarlyArtDefineTag>
 				</UnitMeshGroup>
 			</UnitMeshGroups>
@@ -670,7 +670,7 @@
 			<iBaseHurry>0</iBaseHurry>
 			<iHurryMultiplier>0</iHurryMultiplier>
 			<iBaseTrade>0</iBaseTrade>
-			<iTradeMultiplier>0</iTradeMultiplier>
+			<iTradeMultiplier>100</iTradeMultiplier>
 			<iGreatWorkCulture>0</iGreatWorkCulture>
 			<TerrainImpassables/>
 			<FeatureImpassables/>

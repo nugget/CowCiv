@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>Assets/XML/Civilizations/CIV4LeaderHeadInfos.xml</string>
+	<string>Assets/XML/Civilizations/CIV4CivilizationInfos.xml</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -19,13 +19,13 @@
 					<key>filename</key>
 					<string>Assets/XML/Art/CIV4ArtDefines_Civilization.xml</string>
 					<key>lastUsed</key>
-					<date>2007-08-12T01:00:58Z</date>
+					<date>2007-09-15T16:35:11Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
 					<string>Assets/XML/Art/CIV4ArtDefines_Leaderhead.xml</string>
 					<key>lastUsed</key>
-					<date>2007-08-12T00:52:06Z</date>
+					<date>2007-09-15T16:35:12Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -40,15 +40,15 @@
 					<key>filename</key>
 					<string>Assets/XML/Civilizations/CIV4CivilizationInfos.xml</string>
 					<key>lastUsed</key>
-					<date>2007-08-12T01:04:53Z</date>
+					<date>2007-09-15T16:36:08Z</date>
+					<key>selected</key>
+					<true/>
 				</dict>
 				<dict>
 					<key>filename</key>
 					<string>Assets/XML/Civilizations/CIV4LeaderHeadInfos.xml</string>
 					<key>lastUsed</key>
-					<date>2007-08-12T01:04:53Z</date>
-					<key>selected</key>
-					<true/>
+					<date>2007-09-15T16:36:08Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -78,7 +78,7 @@
 					<key>filename</key>
 					<string>Assets/XML/Interface/CIV4ColorVals.xml</string>
 					<key>lastUsed</key>
-					<date>2007-08-12T00:30:36Z</date>
+					<date>2007-09-15T16:35:08Z</date>
 				</dict>
 				<dict>
 					<key>filename</key>
@@ -99,7 +99,7 @@
 					<key>filename</key>
 					<string>Assets/XML/Text/CIV4GameText_CowCIv.xml</string>
 					<key>lastUsed</key>
-					<date>2007-08-12T01:02:04Z</date>
+					<date>2007-09-15T16:35:07Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -114,7 +114,7 @@
 					<key>filename</key>
 					<string>Assets/XML/Units/CIV4UnitInfos.xml</string>
 					<key>lastUsed</key>
-					<date>2007-08-12T01:00:56Z</date>
+					<date>2007-09-15T16:35:07Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -160,28 +160,28 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>43</integer>
+				<integer>31</integer>
 				<key>line</key>
-				<integer>796</integer>
+				<integer>75</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>824</integer>
+			<integer>6</integer>
 		</dict>
 		<key>Assets/XML/Civilizations/CIV4LeaderHeadInfos.xml</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>49</integer>
+				<integer>29</integer>
 				<key>line</key>
-				<integer>1089</integer>
+				<integer>2053</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>1049</integer>
+			<integer>468</integer>
 		</dict>
 		<key>Assets/XML/GameInfo/CIV4DiplomacyInfos.xml</key>
 		<dict>
@@ -244,9 +244,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>26</integer>
+				<integer>48</integer>
 				<key>line</key>
-				<integer>12</integer>
+				<integer>192</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -284,6 +284,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1147, 63}, {1353, 1489}}</string>
+	<string>{{1207, 80}, {1353, 1489}}</string>
 </dict>
 </plist>
